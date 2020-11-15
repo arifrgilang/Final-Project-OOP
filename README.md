@@ -18,7 +18,7 @@ This repository is a final project (Java GUI) from Object-Oriented Programming C
 ---
 
 ## Change log
-- **[Sprint 0](changelog/sprint-1.md) - (planning date)** 
+- **[Sprint 0](changelog/sprint-0.md) - (planning date)** 
    1. Short changes 1
    2. Short changes 2
 
