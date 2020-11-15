@@ -1,5 +1,5 @@
-# Sprint Planning (Sprint 0)
-| From dd/mm/yyyy to dd/mm/yyyy
+# Sprint Planning 
+| dd/mm/yyyy
 
 ### Team (Insert your name)
 | NPM           | Name        |

@@ -14,7 +14,7 @@ This repository is a final project (Java GUI) from Object-Oriented Programming C
 | 140810xx00xx  | Lorem Ipsum |
 
 ## Change log
-- **[Sprint 0](changelog/sprint-0.md) - (planning date)** 
+- **[Sprint Planning](changelog/sprint-planning.md) - (planning date)** 
    -  Short changes 1
    - Short changes 2
 
