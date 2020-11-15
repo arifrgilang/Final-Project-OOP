@@ -18,16 +18,19 @@ This repository is a final project (Java GUI) from Object-Oriented Programming C
 ---
 
 ## Change log
-
-**1. [Sprint 1](https://github.com/arifrgilang/15-Puzzle/blob/master/changelog/sprint-1.md) - (date from x until x)** 
+- **[Sprint 0](changelog/sprint-1.md) - (planning date)** 
    1. Short changes 1
    2. Short changes 2
 
-**2. [Sprint 2](https://github.com/arifrgilang/15-Puzzle/blob/master/changelog/sprint-2.md) - (date from x until x)** 
+- **[Sprint 1](changelog/sprint-1.md) - (date from x until x)** 
+   1. Short changes 1
+   2. Short changes 2
+
+- **[Sprint 2](changelog/sprint-2.md) - (date from x until x)** 
    1. Short changes 1
    2. Short changes 2
    
-**3. [Sprint 3](https://github.com/arifrgilang/15-Puzzle/blob/master/changelog/sprint-3.md) - (date from x until x)** 
+- **[Sprint 3](changelog/sprint-3.md) - (date from x until x)** 
    1. Short changes 1
    2. Short changes 2
 
@@ -49,3 +52,4 @@ UML image here
 
 ## Notable Assumption and Design App Details
 
+TO;DO
