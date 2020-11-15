@@ -6,16 +6,12 @@ This repository is a final project (Java GUI) from Object-Oriented Programming C
 
 **Please create a description for this project here**
 
----
-
 ## Credits
 | NPM           | Name        |
 | ------------- |-------------|
 | 140810xx00xx  | John Doe    |
 | 140810xx00xx  | Jane Doe    |
 | 140810xx00xx  | Lorem Ipsum |
-
----
 
 ## Change log
 - **[Sprint 0](changelog/sprint-0.md) - (planning date)** 
@@ -34,21 +30,15 @@ This repository is a final project (Java GUI) from Object-Oriented Programming C
    1. Short changes 1
    2. Short changes 2
 
----
-
 ## Running The App
 
 TO;DO with steps
-
----
 
 ## Classes Used
 
 TO;DO
 
 UML image here
-
----
 
 ## Notable Assumption and Design App Details
 
