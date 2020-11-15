@@ -15,20 +15,20 @@ This repository is a final project (Java GUI) from Object-Oriented Programming C
 
 ## Change log
 - **[Sprint 0](changelog/sprint-0.md) - (planning date)** 
-   1. Short changes 1
-   2. Short changes 2
+   -  Short changes 1
+   - Short changes 2
 
 - **[Sprint 1](changelog/sprint-1.md) - (date from x until x)** 
-   1. Short changes 1
-   2. Short changes 2
+   - Short changes 1
+   - Short changes 2
 
 - **[Sprint 2](changelog/sprint-2.md) - (date from x until x)** 
-   1. Short changes 1
-   2. Short changes 2
+   - Short changes 1
+   - Short changes 2
    
 - **[Sprint 3](changelog/sprint-3.md) - (date from x until x)** 
-   1. Short changes 1
-   2. Short changes 2
+   - Short changes 1
+   - Short changes 2
 
 ## Running The App
 
