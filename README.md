@@ -1,13 +1,19 @@
 # Project Name
 
 This repository is a final project (Java GUI) from Object-Oriented Programming Class, Teknik Informatika Universitas Padjadjaran. 
+
+[Challenge Guidelines](challenge-guideline.md)
+
 **Please create a description for this project here**
 
 ---
 
 ## Credits
-1408101x00xx - John Doe
-1408101x00xx - Jane Doe
+| NPM           | Name        |
+| ------------- |-------------|
+| 140810xx00xx  | John Doe    |
+| 140810xx00xx  | Jane Doe    |
+| 140810xx00xx  | Lorem Ipsum |
 
 ---
 
