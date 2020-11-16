@@ -8,6 +8,12 @@
 | 140810xx00xx  | Jane Doe    |
 | 140810xx00xx  | Lorem Ipsum |
 
+## Sprint Backlog Keseluruhan 
+| ID  | Title/Desc | Asignee | 
+| --- | ---------- | ------- | 
+| 1.1 | Preparing the x | Jane Doe | 
+| 2.2 | Make the x | John Doe | 
+
 ## Sprint Backlog Plan (Sprint 1)
 | ID  | Title/Desc | Asignee | 
 | --- | ---------- | ------- | 
